@@ -1,0 +1,22 @@
+# Build outputs
+target/
+
+# IDEs
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment config
+src/main/resources/application.properties
+*.env
+application-*.properties
+
+# Maven wrapper
+.mvn/
+!mvn/wrapper/maven-wrapper.jar
